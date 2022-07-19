@@ -4,7 +4,7 @@
 
 ## Grapphical Abstract
 ![plot](./graphical_abstract/ga_1.png)
-![plot](./graphical_abstract/ga_2.png)
+![plot](./graphical_abstract/ga_2.jpg)
 
 ## Requirements
 ```
