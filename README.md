@@ -3,7 +3,9 @@
 ## Manuscript
 
 ## Grapphical Abstract
+### Contrastive Learning for Mutational Profile Signature Embeddings
 ![plot](./graphical_abstract/ga_1.png)
+### Application-centric DLDS system
 ![plot](./graphical_abstract/ga_2.jpg)
 
 ## Requirements
