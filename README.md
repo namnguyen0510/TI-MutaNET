@@ -1,7 +1,7 @@
 # Text-based Integration of Mutational Profiles for Classification and Biomarker Identification of Intraductal Papillary Mucinous Neoplasms of the Pancreas
 [(Pre-print)](https://arxiv.org/pdf/2202.10919.pdf)
 
-# Grapphical Abstract
+# Graphical Abstract
 ## Contrastive Learning for Mutational Profile Signature Embeddings
 ![plot](./graphical_abstract/ga_1.png)
 ## Application-centric DLDS system
