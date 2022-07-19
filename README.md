@@ -3,7 +3,7 @@
 ## Manuscript
 
 ## Grapphical Abstract
-
+![plot](./figures/EtaNet.png)
 
 ## Requirements
 ```
