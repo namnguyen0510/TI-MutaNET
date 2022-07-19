@@ -1,25 +1,24 @@
 # Text-based Integration of Mutational Profiles for Classification and Biomarker Identification of Intraductal Papillary Mucinous Neoplasms of the Pancreas
+[(Pre-print)](https://arxiv.org/pdf/2202.10919.pdf)
 
-## Manuscript
-
-## Grapphical Abstract
-### Contrastive Learning for Mutational Profile Signature Embeddings
+# Grapphical Abstract
+## Contrastive Learning for Mutational Profile Signature Embeddings
 ![plot](./graphical_abstract/ga_1.png)
-### Application-centric DLDS system
+## Application-centric DLDS system
 ![plot](./graphical_abstract/ga_2.jpg)
 
-## Requirements
+# Requirements
 ```
 torch == 1.11.0, torchlars == 0.1.2, torchvision == 0.12.0, sentence-transformers == 2.2.0
 
 ```
-## Code usage
-### Train Embedding
+# Code usage
+## Train Embedding
 ```
 cd train_embeddings
 python main.py
 ```
-### Train DL classifiers
+## Train DL classifiers
 ```
 cd train_dl_timuta
 python main.py
@@ -29,18 +28,18 @@ or
 cd train_dl_ann
 python main.py
 ```
-### Biomarker Scoring
+## Biomarker Scoring
 ```
 cd biomarker_scoring/timuta/
 python main.py
 
 ```
 
-## Results
+# Results
 
-## Experimental History
+# Experimental History
 
-## License
+# License
 
-## Citation
+# Citation
 If you believe this AI system could help to cure cancer, please don't hesistate to give us a star :dizzy: and citation :pushpin::
