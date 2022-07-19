@@ -4,14 +4,12 @@
 
 ## Grapphical Abstract
 
+
 ## Requirements
 ```
-torch                        1.11.0
-torchlars                    0.1.2
-torchvision                  0.12.0
+torch == 1.11.0, torchlars == 0.1.2, torchvision == 0.12.0, sentence-transformers == 2.2.0
 
 ```
-
 ## Code usage
 
 ## Results
