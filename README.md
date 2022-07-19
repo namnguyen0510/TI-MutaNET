@@ -1,10 +1,13 @@
-# Text-based Integration of Mutational Profiles for Classification and Biomarker Identification of Intraductal Papillary Mucinous Neoplasms of the Pancreas.
+# Text-based Integration of Mutational Profiles for Classification and Biomarker Identification of Intraductal Papillary Mucinous Neoplasms of the Pancreas
 
 ## Manuscript
 
 ## Grapphical Abstract
 
 ## Requirements
+```
+python >=3.6.12, torch, 
+```
 
 ## Code usage
 
