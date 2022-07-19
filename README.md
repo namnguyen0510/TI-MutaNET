@@ -36,10 +36,13 @@ python main.py
 ```
 
 # Results
+See directory results.
 
 # Experimental History
+Update soon~!
 
 # License
+See LICENSE.txt
 
 # Citation
 If you believe this AI system could help to cure cancer, please don't hesistate to give us a star :dizzy: and citation :pushpin::
