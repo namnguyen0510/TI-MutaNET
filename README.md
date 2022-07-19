@@ -6,7 +6,10 @@
 
 ## Requirements
 ```
-python >=3.6.12, torch, 
+torch                        1.11.0
+torchlars                    0.1.2
+torchvision                  0.12.0
+
 ```
 
 ## Code usage
