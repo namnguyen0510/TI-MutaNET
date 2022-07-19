@@ -20,6 +20,9 @@ python main.py
 ```
 cd train_dl_timuta
 python main.py
+```
+or
+```
 cd train_dl_ann
 python main.py
 ```
