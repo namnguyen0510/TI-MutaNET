@@ -11,6 +11,19 @@ torch == 1.11.0, torchlars == 0.1.2, torchvision == 0.12.0, sentence-transformer
 
 ```
 ## Code usage
+### Train Embedding
+```
+python train_embeddings/main.py
+```
+### Train DL classifiers
+```
+python train_dl_timuta/main.py
+python train_dl_ann/main.py
+```
+### Biomarker Scoring
+```
+python biomarker_scoring/timuta/main.py
+```
 
 ## Results
 
